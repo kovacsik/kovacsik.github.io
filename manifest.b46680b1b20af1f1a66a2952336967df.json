@@ -1,0 +1,41 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.a03f01914e54ec71a5b3ff58e8ec5866.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.f1cac45633bcc3726932b5f0fc594bcb.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_256x256.6d5366e752af21513d7f0585a6cf77ca.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.538fadee05a90a6dfe324c9ee4f7f4f5.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.01f2a1f7f808a501d34d4daa87d5e754.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.87f62a3e92f3dc91a7618c03c5de8ae1.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Michael Kovacsik Portfolio",
+  "short_name": "MK Portfolio",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Michael Kovacsik Portfolio as a Progressive Web App!",
+  "background_color": "#ffffff"
+}
